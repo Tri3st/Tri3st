@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Martin aka @Tri3st
-- 👀 I’m learning to write java, JavaScript and php.
+- 👀 Always eager to improve my skills in java, Python, JavaScript and php.
 - 🌱 I also like to play around with MySQL, HTML and CSS.
 - 💞️ Also I am studying to get my University degree in "Informatica"
 - 🤓 I think the English term is Software Engineering.
